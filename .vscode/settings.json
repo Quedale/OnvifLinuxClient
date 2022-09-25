@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "gst.h": "c"
+    },
+    "terminal.integrated.env.linux": {
+        // "C_INCLUDE_PATH" : "/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/include/orc-0.4:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/include/gio-unix-2.0:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/include/gstreamer-1.0:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib/glib-2.0/include:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/include/glib-2.0:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/include:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib/gstreamer-1.0",
+        // "LIBRARY_PATH" : "/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib/gstreamer-1.0:/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib",
+        // "LD_LIBRARY_PATH" : "/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib",
+        // "PKG_CONFIG_PATH" : "/home/quedale/restore/P52Bak/TOBak/git/cerbero/build/dist/linux_x86_64/lib/pkgconfig"
+        //"GI_TYPELIB_PATH" : "/home/quedale/git/cerbero/build/dist/linux_x86_64/lib/girepository-1.0",
+        //"C_INCLUDE_PATH" : "/home/quedale/git/cerbero/build/dist/linux_x86_64/include/orc-0.4:/home/quedale/git/cerbero/build/dist/linux_x86_64/include/gio-unix-2.0:/home/quedale/git/cerbero/build/dist/linux_x86_64/include/gstreamer-1.0:/home/quedale/git/cerbero/build/dist/linux_x86_64/lib/glib-2.0/include:/home/quedale/git/cerbero/build/dist/linux_x86_64/include/glib-2.0:/home/quedale/git/cerbero/build/dist/linux_x86_64/include:/home/quedale/git/cerbero/build/dist/linux_x86_64/lib:/home/quedale/git/cerbero/build/dist/linux_x86_64/lib/gstreamer-1.0",
+        //"LIBRARY_PATH" : "/home/quedale/git/cerbero/build/dist/linux_x86_64/lib/gstreamer-1.0:/home/quedale/git/cerbero/build/dist/linux_x86_64/lib",
+        //"LD_LIBRARY_PATH" : "/home/quedale/git/cerbero/build/dist/linux_x86_64/lib",
+        //"PKG_CONFIG_PATH" : "/home/quedale/git/cerbero/build/dist/linux_x86_64/lib/pkgconfig"
+    }
+}

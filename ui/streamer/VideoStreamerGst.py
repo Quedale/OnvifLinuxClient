@@ -200,7 +200,7 @@ class VideoStreamerGst():
         #encCaps.set_property("caps", ocaps)
 
         #Set provided caps on AppSink
-        log.debug("Caps : " + str(ocaps.serialize(Gst.SerializeFlags.NONE)))
+        #log.debug("Caps : " + str(ocaps.serialize(Gst.SerializeFlags.NONE)))
         if caps is not None:
             log.debug("RTP Caps : " + str(caps.serialize(Gst.SerializeFlags.NONE)))
             self.msink.set_property("caps", caps)

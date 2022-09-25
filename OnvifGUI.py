@@ -46,7 +46,10 @@ class MainWindow():
         self.rootContainer.add(self.onvifPanel)
 
         self.client = None
-    
+
+        #tmp
+        #onvif_client = OnvifSoapClient("admin","admin", "192.168.1.10")
+        #self.listbox.addItem(onvif_client)
 
     def show(self):
         self.window.mainloop()
